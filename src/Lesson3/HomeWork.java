@@ -1,6 +1,6 @@
 package Lesson3;
 
-public class Zadanie {
+public class HomeWork {
     public static void main(String[] args) {
 
        int i1=5;
