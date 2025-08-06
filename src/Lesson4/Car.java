@@ -1,6 +1,7 @@
 package Lesson4;
 
 public class Car {
+
  String color = "red";
  String engine = "v6";
 
